@@ -1,7 +1,7 @@
 # D.Dyhia 
 
 Formation1: 
-            numero : 1
+            Numero : 1
             Spécialité: "ISI"
             Name: "Dyhia"
             Age: 28
@@ -10,7 +10,7 @@ Formation1:
 
 
 Formation2:  
-          numero: 2
+          Numero: 2
           Spécialité: "CHPS"
           Name: "Dyhia"
           Age: 28
