@@ -6,7 +6,7 @@ Formation1:
             name: "Dyhia"
             Age: 28
             gender: "female"
-            Sport: "VO"
+            Sport: "Vo-Vietnam"
 
 
 Formation2:  
@@ -15,5 +15,5 @@ Formation2:
           name: "Dyhia"
           Age: 28
           gender: "female"
-          Sport: "Vo"
+          Sport: "Vo-Vietnam"
           
