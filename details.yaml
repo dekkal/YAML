@@ -3,7 +3,7 @@
 Formation1: 
             numero : 1
             Spécialité: "ISI"
-            name: "Dyhia"
+            Name: "Dyhia"
             Age: 28
             gender: "female"
             Sport: "Vo-Vietnam"
@@ -12,7 +12,7 @@ Formation1:
 Formation2:  
           numero: 2
           Spécialité: "CHPS"
-          name: "Dyhia"
+          Name: "Dyhia"
           Age: 28
           gender: "female"
           Sport: "Vo-Vietnam"
